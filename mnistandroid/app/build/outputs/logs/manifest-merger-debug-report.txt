@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sraval/.android/build-cache/0cabbffd202901842e242159fb5eb36da560021d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sraval/.android/build-cache/f02ef11a6f3a4db36987a602a302146f02d08a8f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sraval/.android/build-cache/2d8d2584d3e37a53d3cac84d09bb1df731edd28d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sraval/.android/build-cache/5185615d0d8d53551e58dbaf5a8acab9baa62e6f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sraval/.android/build-cache/2f45e62c69fd5bf9810d77b5bfa53c6719c3ee1e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sraval/.android/build-cache/ccab67e7f9ecdac5d16f1c9f1bf1f37a34573ba1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sraval/.android/build-cache/8b47f307aa9d6f62af7ee9b9963c8f40c12442a1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sraval/.android/build-cache/58b072bb5a383d6bd9487f3119e49d15b74fe1e8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sraval/.android/build-cache/03f28f8055a654b8f4a17f498e9b6e6574d72895/output/AndroidManifest.xml:29:5-20
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-rc0] /Users/sraval/.android/build-cache/f9e95a0b716da227b16d8244aa7d3021dd9dfa8e/output/AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:11:9-40
+activity#mariannelinhares.mnistandroid.MainActivity
+ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:12:48-84
+	android:name
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sraval/.android/build-cache/0cabbffd202901842e242159fb5eb36da560021d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sraval/.android/build-cache/f02ef11a6f3a4db36987a602a302146f02d08a8f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sraval/.android/build-cache/2d8d2584d3e37a53d3cac84d09bb1df731edd28d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sraval/.android/build-cache/5185615d0d8d53551e58dbaf5a8acab9baa62e6f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sraval/.android/build-cache/2f45e62c69fd5bf9810d77b5bfa53c6719c3ee1e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sraval/.android/build-cache/ccab67e7f9ecdac5d16f1c9f1bf1f37a34573ba1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sraval/.android/build-cache/8b47f307aa9d6f62af7ee9b9963c8f40c12442a1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sraval/.android/build-cache/58b072bb5a383d6bd9487f3119e49d15b74fe1e8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sraval/.android/build-cache/03f28f8055a654b8f4a17f498e9b6e6574d72895/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sraval/.android/build-cache/0cabbffd202901842e242159fb5eb36da560021d/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sraval/.android/build-cache/0cabbffd202901842e242159fb5eb36da560021d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sraval/.android/build-cache/f02ef11a6f3a4db36987a602a302146f02d08a8f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sraval/.android/build-cache/2d8d2584d3e37a53d3cac84d09bb1df731edd28d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sraval/.android/build-cache/5185615d0d8d53551e58dbaf5a8acab9baa62e6f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sraval/.android/build-cache/2f45e62c69fd5bf9810d77b5bfa53c6719c3ee1e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sraval/.android/build-cache/ccab67e7f9ecdac5d16f1c9f1bf1f37a34573ba1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sraval/.android/build-cache/8b47f307aa9d6f62af7ee9b9963c8f40c12442a1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sraval/.android/build-cache/58b072bb5a383d6bd9487f3119e49d15b74fe1e8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sraval/.android/build-cache/03f28f8055a654b8f4a17f498e9b6e6574d72895/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sraval/.android/build-cache/0cabbffd202901842e242159fb5eb36da560021d/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sraval/.android/build-cache/0cabbffd202901842e242159fb5eb36da560021d/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/sraval/Downloads/mnist-android-tensorflow-master/MnistAndroid/app/src/main/AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
