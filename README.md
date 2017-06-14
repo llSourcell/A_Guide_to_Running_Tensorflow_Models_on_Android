@@ -47,4 +47,4 @@ To interact with TensorFlow you will need an instance of TensorFlowInferenceInte
 
 ## Credits
 
-Credits for this code go to [piasy](https://github.com/Piasy). I've merely created a wrapper to get people started. 
+Credits for this code go to [mari-linhares](https://github.com/mari-linhares/mnist-android-tensorflow). I've merely created a wrapper to get people started. 
